@@ -1,43 +1,37 @@
 {
-  "hash": "693006ca",
+  "hash": "e814e0e3",
   "configHash": "9fdb021b",
-  "lockfileHash": "10058814",
-  "browserHash": "391114c2",
+  "lockfileHash": "0c22b1a1",
+  "browserHash": "5e8f4a51",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "d41b89bf",
+      "fileHash": "84542ed2",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "298abed8",
+      "fileHash": "78307ed2",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "e0b39117",
+      "fileHash": "29acaa57",
       "needsInterop": false
     },
-    "element-plus": {
-      "src": "../../../../node_modules/element-plus/es/index.mjs",
-      "file": "element-plus.js",
-      "fileHash": "ee3f068a",
+    "jaweiwang-ui": {
+      "src": "../../../../node_modules/jaweiwang-ui/dist/jaweiwang-ui.js",
+      "file": "jaweiwang-ui.js",
+      "fileHash": "abd5076d",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-O3YQPVDG": {
-      "file": "chunk-O3YQPVDG.js"
-    },
-    "chunk-MPSKP3NX": {
-      "file": "chunk-MPSKP3NX.js"
-    },
-    "chunk-5WRI5ZAA": {
-      "file": "chunk-5WRI5ZAA.js"
+    "chunk-L2JNJ22P": {
+      "file": "chunk-L2JNJ22P.js"
     }
   }
 }

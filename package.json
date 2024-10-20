@@ -16,6 +16,6 @@
     "vitepress": "^1.4.1"
   },
   "dependencies": {
-    "element-plus": "^2.8.5"
+    "jaweiwang-ui": "^0.0.16"
   }
 }
