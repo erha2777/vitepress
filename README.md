@@ -1,4 +1,4 @@
-## 使用VitePress搭建及部署vue组件库
+## 使用VitePress搭建vue组件库文档
 
 
 ## 安装
