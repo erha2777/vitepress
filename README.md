@@ -1,4 +1,4 @@
-## 使用VitePress搭建及部署vue组件库文档
+## 使用VitePress搭建及部署vue组件库
 
 
 ## 安装
@@ -31,3 +31,8 @@ npm run docs:dev
 ```bash
 npx vitepress dev docs
 ```
+
+## 预览
+
+<img src="https://pic1.imgdb.cn/item/67bd2504d0e0a243d4043c65.png" />
+<img src="https://pic1.imgdb.cn/item/67bd2503d0e0a243d4043c64.png" />
