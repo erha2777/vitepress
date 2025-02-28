@@ -34,5 +34,5 @@ npx vitepress dev docs
 
 ## 预览
 
-<img src="https://pic1.imgdb.cn/item/67bd2504d0e0a243d4043c65.png" />
-<img src="https://pic1.imgdb.cn/item/67bd2503d0e0a243d4043c64.png" />
+<img src="https://github.com/erha2777/public/blob/main/images/a08b87d6277f9e2f96e55e590f30e924b999f38b.png" />
+<img src="https://github.com/erha2777/public/blob/main/images/d62a6059252dd42ae40542fa133b5bb5c9eab857.png" />
